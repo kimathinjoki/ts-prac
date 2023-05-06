@@ -50,3 +50,9 @@ uid = "34";
 var ninjaOne;
 ninjaOne = { name: "yoshima", age: 89 };
 var ninjaTwo;
+// dynamic types
+var miaka = 25;
+miaka = true;
+console.log(miaka);
+miaka = "hello";
+console.log(miaka);

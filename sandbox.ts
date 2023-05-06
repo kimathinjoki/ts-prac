@@ -100,3 +100,15 @@ let ninjaTwo: {
     beltColor: string
 }
 
+
+// dynamic types
+
+
+let miaka: any = 25
+
+miaka = true 
+console.log(miaka)
+
+miaka = "hello" 
+
+console.log(miaka)
